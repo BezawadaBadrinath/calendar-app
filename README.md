@@ -44,10 +44,6 @@ Easily add, edit, and remove events. Data is stored in localStorage.
 - `src/styles/` — CSS styles
 - `public/data/events.json` — Sample events data
 
-## License
 
-MIT
-
----
 
 **Made with ❤️ by Bezawada Badrinath**
